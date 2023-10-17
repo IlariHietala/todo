@@ -1,5 +1,5 @@
 const config = {
-    dp: {
+    db: {
         host: 'localhost',
         user: 'root',
         password: '',

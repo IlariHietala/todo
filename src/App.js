@@ -2,7 +2,7 @@ import './App.css';
 import { useEffect, useState} from 'react'
 import axios from 'axios'
 
-const URL = 'http://localhost:3001'
+const URL = 'http://localhost:3001/'
 
 function App() {
   const [tasks, setTasks] = useState([])
